@@ -1,0 +1,29 @@
+Results: 
+ [[ 1.          0.84185421]
+ [ 0.84185421  1.        ]]
+[[ 1.         0.6307607]
+ [ 0.6307607  1.       ]]
+[[ 1.          0.06708559]
+ [ 0.06708559  1.        ]]
+[[ 1.          0.29531465]
+ [ 0.29531465  1.        ]]
+[[ 1.          0.72545727]
+ [ 0.72545727  1.        ]]
+[[ 1.         -0.13396841]
+ [-0.13396841  1.        ]]
+[[ 1.          0.65420117]
+ [ 0.65420117  1.        ]]
+[[ 1.          0.23602397]
+ [ 0.23602397  1.        ]]
+[[ 1.          0.74305171]
+ [ 0.74305171  1.        ]]
+
+C1 = np.corrcoef(ntrans, valor)
+C2 = np.corrcoef(nvalueout, valor)
+C3 = np.corrcoef(nTasaValue, valor)
+C4 = np.corrcoef(nsize, valor)
+C5 = np.corrcoef(ntax, valor)
+C6 = np.corrcoef(nTasaTax, valor)
+C7 = np.corrcoef(nValueSize, valor)
+C9 = np.corrcoef(nTasaIO, valor)
+C10 = np.corrcoef(nfees, valor)

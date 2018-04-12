@@ -1,0 +1,3 @@
+[u'pubkeyhash', u'scripthash', u'witness_v0_scripthash', u'nulldata', u'witness_v0_keyhash', u'pubkey', u'multisig']
+
+No orlando, el otro

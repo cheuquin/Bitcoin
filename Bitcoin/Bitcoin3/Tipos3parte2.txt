@@ -1,0 +1,1 @@
+[u'pubkeyhash', u'scripthash', u'nulldata', u'multisig', u'pubkey']
